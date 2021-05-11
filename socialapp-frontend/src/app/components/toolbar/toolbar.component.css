@@ -1,0 +1,76 @@
+.title {
+    color: #64b5f6;
+    margin: 0px !important;
+    padding: 0px !important;
+    font-weight: normal;
+}
+
+.isRead {
+    color: #64b5f6;
+    margin: 0px !important;
+    padding: 0px !important;
+    font-weight: normal;
+}
+
+.unread {
+    color: #64b5f6;
+    margin: 0px !important;
+    padding: 0px !important;
+    font-weight: bold;
+}
+
+.time {
+    margin-bottom: 10px !important;
+    font-style: italic;
+    padding-left: 16px;
+}
+
+.text {
+    text-align: center;
+}
+
+.material-icons {
+    color: #64b5f6 !important;
+    cursor: pointer;
+}
+
+.secondary-content {
+    margin-top: -5px !important;
+}
+
+.markAll {
+    color: #ffffff;
+    background: #64b5f6 !important;
+}
+
+.nav-content {
+    text-align: center;
+}
+
+.nav-content h3 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.user-text {
+    padding-bottom: 15px;
+}
+
+.nav-extended {
+    background-color: #64b5f6;
+}
+
+a {
+    cursor: pointer;
+}
+
+.dropdown-content {
+    width: 400px !important;
+}
+
+.nav-label-icon {
+    background-color: red;
+    padding: 5px;
+    border-radius: 20px;
+    color: white;
+}
